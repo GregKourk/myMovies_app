@@ -1,5 +1,5 @@
 # myMovies_app
-A small app in which user can download movies from https://www.themoviedb.org/ using API key and appropriate questions, and manage favoriteLists, seexch movie and get statitics.
+A small app in which user can download movies from https://www.themoviedb.org/ using API key and appropriate questions, and manage favoriteLists, search movie and get statitics.
 
 
 In order for the programm to operate correctly, you need to install given libraries into project. 
